@@ -13,5 +13,4 @@
       map1['century']=2;
       map1['avg']=50.56;
       print(map1);
-  
     }
